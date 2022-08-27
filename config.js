@@ -21,10 +21,10 @@ global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දා�
 global.REACT_NUMBER = '9476342733' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
+global.owner = ['94 76 256 6949',''] //මෙතන number එක.
+global.premium = ['94762566949','94770378874'] //මෙතන number එක.
+global.botname = 'DINUSHA BOT INC' //මෙතන නම.
+global.ownername = 'DINUSHA MD' //මෙතන නම.
 global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
 global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
 global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
